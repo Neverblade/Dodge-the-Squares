@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="JavaFX_Testing.jnlp">
+  <information>
+    <title>Dodge the Squares</title>
+    <vendor>Unknown</vendor>
+    <description>You dodge the squares and stuff.</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="JavaFX_Testing.jar" size="13050" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="1200" height="800" main-class="Wave.Main"  name="Dodge the Squares" />
+  <update check="background"/>
+</jnlp>

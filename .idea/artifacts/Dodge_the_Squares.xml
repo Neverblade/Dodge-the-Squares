@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Dodge the Squares">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dodge_the_Squares</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="Wave.Main" />
+        <option name="description" value="You dodge the squares and stuff." />
+        <option name="height" value="800" />
+        <option name="htmlParamFile" value="" />
+        <option name="paramFile" value="" />
+        <option name="title" value="Dodge the Squares" />
+        <option name="vendor" value="" />
+        <option name="width" value="1200" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="JavaFX_Testing.jar">
+        <element id="module-output" name="JavaFX Testing" />
+      </element>
+    </root>
+  </artifact>
+</component>
